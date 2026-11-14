@@ -1,0 +1,1 @@
+g_cl_berserker g_cl_crusher g_cl_guardian g_cl_hunter g_cl_pikeman g_cl_skirmisher g_cl_warrior g_cl_wolfarcher g_cl_wolfrider g_kd_archer g_kd_crossbow g_kd_footman g_kd_guard g_kd_halberdier g_kd_hammer g_kd_knight g_kd_spearman g_kd_swordsman 

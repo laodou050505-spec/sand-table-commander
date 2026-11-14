@@ -1,0 +1,338 @@
+{
+ "Tree_Oak_A": {
+  "faces": 20000
+ },
+ "Tree_Oak_B": {
+  "faces": 20000
+ },
+ "Tree_Pine_A": {
+  "faces": 18000
+ },
+ "Bush_A": {
+  "faces": 12000
+ },
+ "Rock_A": {
+  "faces": 14000
+ },
+ "Rock_B": {
+  "faces": 10000
+ },
+ "Cottage_A": {
+  "faces": 16000
+ },
+ "Cottage_B": {
+  "faces": 16000
+ },
+ "Windmill": {
+  "faces": 16000
+ },
+ "Bridge_Stone": {
+  "faces": 14000
+ },
+ "Watchtower_Ruin": {
+  "faces": 22000
+ },
+ "Tent_Kingdom_A": {
+  "faces": 12000
+ },
+ "Tent_Kingdom_B": {
+  "faces": 14000
+ },
+ "Tent_Clan_A": {
+  "faces": 14000
+ },
+ "Tent_Clan_B": {
+  "faces": 12000
+ },
+ "Wagon_Supply": {
+  "faces": 14000
+ },
+ "Haystack": {
+  "faces": 8000
+ },
+ "Well": {
+  "faces": 10000
+ },
+ "Campfire": {
+  "faces": 10000
+ },
+ "Chapel": {
+  "faces": 16000
+ },
+ "Market_Stall": {
+  "faces": 12000
+ },
+ "Barrels_Crates": {
+  "faces": 8000
+ },
+ "Weapon_Rack": {
+  "faces": 10000
+ },
+ "Archery_Target": {
+  "faces": 8000
+ },
+ "Tree_Pine_B": {
+  "faces": 18000
+ },
+ "Tree_Dead": {
+  "faces": 10000
+ },
+ "Sheep_Flock": {
+  "faces": 8000
+ },
+ "Jetty_Boat": {
+  "faces": 12000
+ },
+ "Woodpile": {
+  "faces": 8000
+ },
+ "Standing_Stones": {
+  "faces": 10000
+ },
+ "Palisade_Clan": {
+  "faces": 12000
+ },
+ "Wall_Stone": {
+  "faces": 8000
+ },
+ "Cottage_C": {
+  "faces": 16000
+ },
+ "Hufu_Lion": {
+  "faces": 40000
+ },
+ "Hufu_Bull": {
+  "faces": 40000
+ },
+ "Cover_SplitHelm": {
+  "faces": 45000
+ },
+ "Cover_SplitHelm2": {
+  "faces": 45000
+ },
+ "Cover_HelmKnight": {
+  "faces": 45000
+ },
+ "Cover_HelmOrc": {
+  "faces": 45000
+ },
+ "Cover_SplitHelm3": {
+  "faces": 45000
+ },
+ "G_Chapel": {
+  "faces": 16000
+ },
+ "G_Cottage_A": {
+  "faces": 16000
+ },
+ "G_ClockTower": {
+  "faces": 18000
+ },
+ "G_Tent_Clan": {
+  "faces": 14000
+ },
+ "F_Spire": {
+  "faces": 14000,
+  "voxel": 0.003
+ },
+ "F_Habitat": {
+  "faces": 12000
+ },
+ "F_Relay": {
+  "faces": 12000
+ },
+ "F_Hive": {
+  "faces": 12000
+ },
+ "F_Crates": {
+  "faces": 10000
+ },
+ "F_Solar": {
+  "faces": 10000
+ },
+ "F_Rover": {
+  "faces": 12000
+ },
+ "F_Tank": {
+  "faces": 10000
+ },
+ "F_Barrier": {
+  "faces": 8000
+ },
+ "F_Pylon": {
+  "faces": 8000
+ },
+ "F_Rack": {
+  "faces": 10000
+ },
+ "F_Spikes": {
+  "faces": 10000
+ },
+ "M_Command": {
+  "faces": 14000,
+  "src": "raw",
+  "bake": "nearest"
+ },
+ "M_Barracks": {
+  "faces": 12000,
+  "src": "raw",
+  "bake": "nearest"
+ },
+ "M_Watchtower": {
+  "faces": 14000,
+  "src": "raw",
+  "bake": "nearest"
+ },
+ "M_Crates": {
+  "faces": 10000,
+  "voxel": 0.003,
+  "src": "raw",
+  "bake": "nearest"
+ },
+ "M_Truck": {
+  "faces": 14000,
+  "src": "raw",
+  "bake": "nearest"
+ },
+ "M_Sandbags": {
+  "faces": 8000,
+  "src": "raw",
+  "bake": "nearest"
+ },
+ "M_Container": {
+  "faces": 10000,
+  "bake": "nearest",
+  "src": "model_fixed.glb"
+ },
+ "M_Barricade": {
+  "faces": 9000,
+  "src": "raw",
+  "bake": "nearest"
+ },
+ "M_Target": {
+  "faces": 9000,
+  "src": "raw",
+  "bake": "nearest"
+ },
+ "M_Generator": {
+  "faces": 10000,
+  "voxel": 0.003,
+  "src": "raw",
+  "bake": "nearest"
+ },
+ "M_Tent_Sand": {
+  "faces": 9000,
+  "src": "raw",
+  "bake": "nearest"
+ },
+ "M_Tent_Blue": {
+  "faces": 9000,
+  "src": "raw",
+  "bake": "nearest"
+ },
+ "M_Pickup": {
+  "faces": 13000,
+  "src": "raw",
+  "bake": "nearest"
+ },
+ "S_Command": {
+  "faces": 14000,
+  "src": "raw",
+  "bake": "nearest",
+  "hard": 32,
+  "final_faces": 16000
+ },
+ "S_Hab": {
+  "faces": 12000,
+  "src": "raw",
+  "bake": "nearest",
+  "hard": 32,
+  "final_faces": 16000
+ },
+ "S_Tower": {
+  "faces": 13000,
+  "src": "raw",
+  "bake": "nearest",
+  "hard": 32,
+  "final_faces": 16000
+ },
+ "S_Pod": {
+  "faces": 10000,
+  "src": "raw",
+  "bake": "nearest",
+  "hard": 32,
+  "final_faces": 16000
+ },
+ "S_Hauler": {
+  "faces": 13000,
+  "src": "raw",
+  "bake": "nearest",
+  "hard": 32,
+  "final_faces": 16000
+ },
+ "S_Crates": {
+  "faces": 9000,
+  "src": "raw",
+  "bake": "nearest",
+  "hard": 32,
+  "final_faces": 16000
+ },
+ "S_Barrier": {
+  "faces": 8000,
+  "src": "raw",
+  "bake": "nearest",
+  "hard": 32,
+  "final_faces": 16000
+ },
+ "S_Lamp": {
+  "faces": 8000,
+  "src": "raw",
+  "bake": "nearest",
+  "hard": 32,
+  "final_faces": 16000
+ },
+ "S_Wreck": {
+  "faces": 15000,
+  "src": "raw",
+  "bake": "nearest",
+  "voxel": 0.0032
+ },
+ "S_Ribs": {
+  "faces": 9000,
+  "src": "raw",
+  "bake": "nearest"
+ },
+ "S_Derrick": {
+  "faces": 14000,
+  "src": "raw",
+  "bake": "nearest",
+  "hard": 32,
+  "final_faces": 16000
+ },
+ "S_Shack": {
+  "faces": 10000,
+  "src": "raw",
+  "bake": "nearest",
+  "hard": 32,
+  "final_faces": 16000
+ },
+ "S_ScrapWall": {
+  "faces": 9000,
+  "src": "raw",
+  "bake": "nearest",
+  "hard": 32,
+  "final_faces": 16000
+ },
+ "S_OreCart": {
+  "faces": 9000,
+  "src": "raw",
+  "bake": "nearest",
+  "hard": 32,
+  "final_faces": 16000
+ },
+ "S_Spire": {
+  "faces": 9000,
+  "src": "raw",
+  "bake": "nearest"
+ }
+}

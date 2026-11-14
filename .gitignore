@@ -1,0 +1,67 @@
+# Unity 生成 / 缓存（可由 Unity 重新生成）
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/Assets/_Recovery/
+/Assets/_Recovery.meta
+
+# 打包产物（安装包放在 GitHub Release）
+/[Bb]uild/
+/[Bb]uilds/
+*.apk
+*.aab
+
+# 美术原始素材：只收录重新打包 / 重新生成界面图必需的部分
+#   Cover/v6/alpha  界面贴图原图（打包时 CoverBuilder.Tex 从这里导入）
+#   Fonts           开源字体（附 OFL 许可证）
+#   UI/gen          手势 / 兵种水墨图标原图（Tools/make_tutorial_tips.py、make_field_ui.py 用）
+# P2 建模中间文件、参考图、历代封面稿体积大且不参与打包，不入库
+/ArtSource/*
+!/ArtSource/Fonts/
+!/ArtSource/Cover/
+/ArtSource/Cover/*
+!/ArtSource/Cover/v6/
+/ArtSource/Cover/v6/*
+!/ArtSource/Cover/v6/alpha/
+!/ArtSource/UI/
+/ArtSource/UI/*
+!/ArtSource/UI/gen/
+#   Tokens/emblem_*  令牌书法令徽（Tools/make_token_models.py 刻槽、make_order_badges.py / make_field_ui.py 画图标都读它）
+!/ArtSource/Tokens/
+/ArtSource/Tokens/*
+!/ArtSource/Tokens/emblem_*
+#   Space/bodyfit.json  深空兵种的手臂修正角度（DemoFigures 搭预制体时读）；Space 下的驱动脚本是做这个风格时的流水线记录
+!/ArtSource/Space/
+/ArtSource/Space/*
+!/ArtSource/Space/bodyfit.json
+!/ArtSource/Space/*.sh
+!/ArtSource/Space/*.py
+#   specs.json  P2 布景流水线的每件配置（面数上限、修复参数）
+!/ArtSource/specs.json
+
+# IDE / 系统
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.DS_Store
+sysinfo.txt
+crashlytics-build.properties
+
+# 签名文件（不入库）
+*.keystore
+*.jks

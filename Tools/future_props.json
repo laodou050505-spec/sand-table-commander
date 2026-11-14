@@ -1,0 +1,29 @@
+{
+  "_说明": "未来时代（样图 A）的武器 / 盾条目，11-12 起草，还没生成。生成时合并进原型 ~/sandtable-xr/tools/tripo/assets.mjs（kind: 'prop'，写法同 g_*），握点规格在 tools/build/props.ts 里映射到 base 那件原版道具（握点和长度不变，模拟不用改）。名字规则见 DemoFigures.GearOf：f_<原名>；两军共用的原版道具，氏族一方用 f_<原名>_clan。",
+  "_光棱军团": "珍珠白陶瓷握柄 + 细金环，刃 / 锤头 / 盾面是实心的天青色硬光（半透明发光晶体质感）",
+  "_虚空蜂群": "哑光黑曜石色甲虫壳质感的柄和刃背，刃口 / 核心发紫光；干净硬表面，不黏、没有孔洞",
+  "props": {
+    "f_short_sword": {"base": "short_sword", "weapon": true, "prompt": "A far-future short hard-light sword: a pearl-white ceramic hilt with a thin gold ring guard and a short broad blade made of solid glowing sky-cyan crystal-like light"},
+    "f_arming_sword": {"base": "arming_sword", "weapon": true, "prompt": "A far-future officer's hard-light sword: a pearl-white ceramic hilt with a gold swept guard and a long straight blade of solid glowing sky-cyan light with a thin white core line"},
+    "f_spear": {"base": "spear", "weapon": true, "prompt": "A far-future infantry spear: a slim pearl-white ceramic shaft with gold bands and a long leaf-shaped spearhead of solid glowing sky-cyan light"},
+    "f_halberd": {"base": "halberd", "weapon": true, "prompt": "A far-future halberd: a pearl-white ceramic shaft with gold bands, a large crescent axe blade and a top spike both made of solid glowing sky-cyan light held in a small white emitter block"},
+    "f_claymore": {"base": "claymore", "weapon": true, "prompt": "A far-future two-handed greatsword: a long pearl-white ceramic grip with a wide gold-edged emitter guard and a very long wide blade of solid glowing sky-cyan light"},
+    "f_warhammer": {"base": "warhammer", "weapon": true, "prompt": "A far-future two-handed hammer: a long pearl-white ceramic haft with gold bands and a heavy rectangular hammer head of white ceramic plates around a glowing sky-cyan energy core"},
+    "f_long_bow": {"base": "long_bow", "weapon": true, "prompt": "A tall far-future bow with slim pearl-white ceramic limbs with gold tips, a dark grey grip and a thin glowing sky-cyan light string, seen from the side"},
+    "f_crossbow": {"base": "crossbow", "weapon": true, "prompt": "A slim far-future rifle with a smooth pearl-white ceramic body, a dark grey grip, thin gold trim and a long barrel with a glowing sky-cyan line along its side"},
+    "f_lance": {"base": "lance", "weapon": true, "prompt": "A far-future cavalry lance: a long pearl-white ceramic shaft with a gold-edged round hand guard and a long tapering tip of solid glowing sky-cyan light"},
+    "f_shield_round": {"base": "shield_round", "shield": true, "prompt": "A far-future hexagonal energy shield: a flat hexagon panel of solid glowing sky-cyan light with a honeycomb pattern in a thin pearl-white ceramic frame with gold corners"},
+    "f_shield_crest": {"base": "shield_crest", "shield": true, "prompt": "A far-future tall kite-shaped energy shield: a panel of solid glowing sky-cyan light in a pearl-white ceramic frame with a gold fin-shaped emblem in the middle"},
+    "f_shield_round_clan": {"base": "shield_round", "shield": true, "prompt": "A round far-future shield made from an obsidian-black beetle wing-case shell split down the middle, with glowing violet seams and a violet core in the centre"},
+    "f_hatchet": {"base": "hatchet", "weapon": true, "prompt": "A far-future hand axe: a curved claw-shaped obsidian-black blade with a glowing violet cutting edge on a short segmented black handle"},
+    "f_clan_axe": {"base": "clan_axe", "weapon": true, "prompt": "A far-future one-handed battle axe: a broad mandible-shaped obsidian-black blade with a glowing violet edge and violet seams, a segmented black handle"},
+    "f_javelin": {"base": "javelin", "weapon": true, "prompt": "A far-future throwing spine: a thin obsidian-black segmented shaft with a barbed stinger-shaped head with a glowing violet tip"},
+    "f_glaive": {"base": "glaive", "weapon": true, "prompt": "A far-future polearm: a long obsidian-black segmented shaft with a large curved mantis-claw blade on top with a glowing violet edge"},
+    "f_war_axe2": {"base": "war_axe2", "weapon": true, "prompt": "A massive far-future double-bladed greataxe: two obsidian-black beetle-horn shaped blades with glowing violet edges around a round violet energy core, on a long segmented black haft"},
+    "f_maul": {"base": "maul", "weapon": true, "prompt": "A huge far-future maul: a massive obsidian-black hammer head shaped like a rhinoceros beetle shell with glowing violet seams on a thick segmented black haft"},
+    "f_war_axe": {"base": "war_axe", "weapon": true, "prompt": "A two-handed far-future war axe with a large crescent obsidian-black blade with a glowing violet edge and a long segmented black haft"},
+    "f_bow": {"base": "bow", "weapon": true, "prompt": "A short far-future recurve bow made of two curved obsidian-black mandible-shaped limbs with glowing violet seams and a thin violet light string, seen from the side"},
+    "f_long_bow_clan": {"base": "long_bow", "weapon": true, "prompt": "A tall far-future bow made of two long curved obsidian-black antenna-like segmented limbs with glowing violet seams and a thin violet light string, seen from the side"},
+    "f_shield_clan": {"base": "shield_clan", "shield": true, "prompt": "A far-future shield shaped like a large obsidian-black beetle shell plate with raised ridges, glowing violet seams and a violet core"}
+  }
+}
