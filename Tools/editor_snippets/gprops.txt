@@ -1,0 +1,1 @@
+g_short_sword g_arming_sword g_spear g_halberd g_claymore g_warhammer g_long_bow g_crossbow g_lance g_shield_round g_shield_crest g_hatchet g_clan_axe g_javelin g_glaive g_war_axe2 g_maul g_war_axe g_bow g_iron_longbow g_shield_clan order_token

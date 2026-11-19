@@ -1,0 +1,20 @@
+{
+  "s_cl_berserker": [5, 18, 0, 0],
+  "s_cl_crusher": [25, 18, 0, 0],
+  "s_cl_guardian": [20, 0, 0, 0],
+  "s_cl_hunter": [25, 6, 0, 0],
+  "s_cl_pikeman": [0, 0, 0, 0],
+  "s_cl_skirmisher": [0, 0, 0, 0],
+  "s_cl_warrior": [0, 18, 0, 0],
+  "s_cl_wolfarcher": [0, 0, 0, 0],
+  "s_cl_wolfrider": [0, 18, 0, 0],
+  "s_kd_archer": [10, 0, 0, 0],
+  "s_kd_crossbow": [5, 0, 0, 0],
+  "s_kd_footman": [0, 6, 0, 0],
+  "s_kd_guard": [0, 0, 10, 0],
+  "s_kd_halberdier": [0, 0, 0, 0],
+  "s_kd_hammer": [25, 18, 20, 0],
+  "s_kd_knight": [5, 12, 20, 6],
+  "s_kd_spearman": [0, 0, 0, 0],
+  "s_kd_swordsman": [0, 18, 0, 0]
+}

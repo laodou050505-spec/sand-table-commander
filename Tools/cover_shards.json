@@ -1,0 +1,178 @@
+{
+ "begin": {
+  "w": 838,
+  "h": 250,
+  "pad": 12,
+  "glow_pad": 46,
+  "pips": false,
+  "text_cx": 413.0,
+  "text_w": 492.0,
+  "w_zh": 838,
+  "w_en": 838
+ },
+ "era": {
+  "w": 906,
+  "h": 250,
+  "pad": 12,
+  "glow_pad": 46,
+  "pips": false,
+  "text_cx": 459.0,
+  "text_w": 469.0,
+  "w_zh": 906,
+  "w_en": 906
+ },
+ "tutorial": {
+  "w": 996,
+  "h": 250,
+  "pad": 12,
+  "glow_pad": 46,
+  "pips": false,
+  "text_cx": 492.0,
+  "text_w": 796.0,
+  "w_zh": 996,
+  "w_en": 996
+ },
+ "settings": {
+  "w": 974,
+  "h": 250,
+  "pad": 12,
+  "glow_pad": 46,
+  "pips": false,
+  "text_cx": 493.0,
+  "text_w": 769.0,
+  "w_zh": 974,
+  "w_en": 974
+ },
+ "quit": {
+  "w": 860,
+  "h": 250,
+  "pad": 12,
+  "glow_pad": 46,
+  "pips": false,
+  "text_cx": 424.0,
+  "text_w": 395.0,
+  "w_zh": 860,
+  "w_en": 860
+ },
+ "language": {
+  "w": 906,
+  "h": 250,
+  "pad": 12,
+  "glow_pad": 46,
+  "pips": false,
+  "text_cx": 459.0,
+  "text_w": 696.0,
+  "w_zh": 906,
+  "w_en": 906
+ },
+ "speed": {
+  "w": 1018,
+  "h": 250,
+  "pad": 12,
+  "glow_pad": 46,
+  "pips": true,
+  "text_cx": 428.0,
+  "text_w": 488.0,
+  "w_zh": 1018,
+  "w_en": 1018
+ },
+ "dim": {
+  "w": 1066,
+  "h": 250,
+  "pad": 12,
+  "glow_pad": 46,
+  "pips": true,
+  "text_cx": 464.0,
+  "text_w": 741.0,
+  "w_zh": 1066,
+  "w_en": 1066
+ },
+ "replace": {
+  "w": 1158,
+  "h": 250,
+  "pad": 12,
+  "glow_pad": 46,
+  "pips": false,
+  "text_cx": 573.0,
+  "text_w": 984.0,
+  "w_zh": 1158,
+  "w_en": 1158
+ },
+ "back": {
+  "w": 792,
+  "h": 250,
+  "pad": 12,
+  "glow_pad": 46,
+  "pips": false,
+  "text_cx": 402.0,
+  "text_w": 420.0,
+  "w_zh": 792,
+  "w_en": 792
+ },
+ "era0": {
+  "w": 884,
+  "h": 250,
+  "pad": 12,
+  "glow_pad": 46,
+  "pips": false,
+  "text_cx": 436.0,
+  "text_w": 590.0,
+  "w_zh": 884,
+  "w_en": 884
+ },
+ "era1": {
+  "w": 1074,
+  "h": 250,
+  "pad": 12,
+  "glow_pad": 46,
+  "pips": false,
+  "text_cx": 543.0,
+  "text_w": 900.0,
+  "w_zh": 1074,
+  "w_en": 1074
+ },
+ "era2": {
+  "w": 1082,
+  "h": 250,
+  "pad": 12,
+  "glow_pad": 46,
+  "pips": false,
+  "text_cx": 535.0,
+  "text_w": 907.0,
+  "w_zh": 1082,
+  "w_en": 1082
+ },
+ "era3": {
+  "w": 996,
+  "h": 250,
+  "pad": 12,
+  "glow_pad": 46,
+  "pips": false,
+  "text_cx": 504.0,
+  "text_w": 817.0,
+  "w_zh": 996,
+  "w_en": 996
+ },
+ "era4": {
+  "w": 1110,
+  "h": 250,
+  "pad": 12,
+  "glow_pad": 46,
+  "pips": false,
+  "text_cx": 549.0,
+  "text_w": 935.0,
+  "w_zh": 1110,
+  "w_en": 1110
+ },
+ "demo": {
+  "w": 1064,
+  "h": 250,
+  "pad": 12,
+  "glow_pad": 46,
+  "pips": false,
+  "text_cx": 538.0,
+  "text_w": 861.0,
+  "w_zh": 1064,
+  "w_en": 1064
+ }
+}
