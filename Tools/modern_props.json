@@ -1,0 +1,12 @@
+{
+  "_说明": "现代时代（样图 A：蓝盾特勤 对 赤砂佣兵）的武器 / 盾 / 摩托，11-13。条目已合并进原型 ~/sandtable-xr/tools/tripo/assets.mjs（modernProp）和 tools/build/props.ts（握点规格），本文件只是对照表。",
+  "对应": {
+    "m_short_sword": "警棍（short_sword）", "m_arming_sword": "长钢棍（arming_sword）", "m_spear": "防暴钢叉（spear）", "m_halberd": "破拆钩镐杆（halberd）",
+    "m_claymore": "撬棍（claymore）", "m_warhammer": "破门锤（warhammer）", "m_long_bow": "精确步枪（顶替 long_bow，按武器规格、右手握）", "m_crossbow": "卡宾枪（crossbow）",
+    "m_lance": "巡逻长杆（lance）", "m_shield_round": "圆形防暴盾", "m_shield_crest": "长方防暴盾",
+    "m_shield_round_clan": "井盖盾", "m_hatchet": "砍刀（hatchet）", "m_clan_axe": "消防斧（clan_axe）", "m_javelin": "钢筋投矛（javelin）", "m_glaive": "钢管镰刀（glaive）",
+    "m_war_axe2": "大劈柴斧（war_axe2）", "m_maul": "齿轮锤（maul）", "m_war_axe": "长柄斧（war_axe）", "m_bow": "冲锋枪（顶替 bow，按武器规格）",
+    "m_long_bow_clan": "猎枪（顶替 long_bow，按武器规格）", "m_shield_clan": "车门盾",
+    "m_moto": "巡逻摩托（顶替马，无骨骼，HoverMount）", "m_dirtbike": "越野摩托（顶替狼）"
+  }
+}

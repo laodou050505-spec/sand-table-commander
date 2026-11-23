@@ -1,0 +1,20 @@
+{
+ "fx_paper": 0.9305,
+ "fx_card": 0.9259,
+ "fx_card_s": 0.8716,
+ "fx_sun": 0.9275,
+ "fx_moon": 0.9275,
+ "fx_paper_s": 0.8716,
+ "fx_strip_win": 0.9259,
+ "fx_strip_lose": 0.9259,
+ "fx_strip_pause": 0.9259,
+ "fx_plaque": 0.9111,
+ "fx_plaque_hi": 0.9111,
+ "fx_rule": 1.0,
+ "fx_stamp": 1.0,
+ "fx_flag_ours": 1.0,
+ "fx_flag_foe": 1.0,
+ "fx_halo": 1.0,
+ "fx_ticket": 0.9714,
+ "fx_ticket_hi": 0.9714
+}
